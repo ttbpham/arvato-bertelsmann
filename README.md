@@ -31,7 +31,7 @@ Terms and Conditions file - terms.pdf: detailed conditions of downloading and us
 
 arvato_project_workbook.ipynb: contains all the codes for this project
 
-Arvato-Bertelsmann.pdf: project report contains detailed data analysis and algorithms used in clustering and predicting Arvato's potential customers. Link [here](https://github.com/ttbpham/arvato-bertelsmann/blob/master/Arvato-Bertelsmann.pdf)
+report.pdf: project report contains detailed data analysis and algorithms used in clustering and predicting Arvato's potential customers. Link [here](https://github.com/ttbpham/arvato-bertelsmann/blob/master/Arvato-Bertelsmann.pdf)
 
 
 ## Instructions
@@ -49,7 +49,7 @@ The codes are written in Python 3, the following Python libraries are required f
 
 Refer to [Python Packaging User Guide](https://packaging.python.org) for checking and installing missing libraries on your system.
 
-
+Link to [Blogpost](https://ttbpham.medium.com/capstone-project-report-bertelsmann-arvato-customer-segmentation-report-e3dc0ebaf31c) on Medium
 
 ## Creators
 
